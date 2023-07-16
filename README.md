@@ -28,8 +28,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open Android Emulator to run this project.
+
 
 <div  align="center"  id="top">
 <img  src="./preview.png"  alt="Youtube Clone" />
