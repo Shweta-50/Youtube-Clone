@@ -16,7 +16,7 @@
 
 ## Demo 🔥
 
-<a href="" target="_blank">Live Demo</a>
+<a href="https://s-youtube-clone.netlify.app/" target="_blank">Live Demo</a>
 
 ## Available Scripts 🔥
 
@@ -27,8 +27,6 @@ In the project directory, you can run:
 ### `npm install`
 
 ### `npm start`
-
-
 
 <div  align="center"  id="top">
 <img  src="./preview.png"  alt="Youtube Clone" />
