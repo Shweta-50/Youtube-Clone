@@ -27,18 +27,16 @@ body {
   
   ::-webkit-scrollbar-thumb {
     background:  linear-gradient(0deg, #4568dc 0%,  #f124f8 100%);
-    /* width: 4px; */
     border-radius: 12px;
     height: 50px!important;
-   
-    /* box-shadow: 0px 0px 0px 100000vh black; */
+
   }
 
 
 
     
 
-* Hide scrollbar for Chrome, Safari and Opera */
+
 .no-scrollbar::-webkit-scrollbar {
     display: none!important;
 }
